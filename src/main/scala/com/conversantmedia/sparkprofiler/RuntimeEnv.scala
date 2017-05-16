@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 case class RuntimeEnv(jvmInformation: Map[String, String],
                       sparkProperties: Map[String, String],
                       systemProperties: Map[String, String],

@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 case class Job(applicationId: String,
                applicationName: String,
                jobId: Int,

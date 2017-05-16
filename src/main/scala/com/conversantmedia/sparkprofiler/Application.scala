@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 /**
   * Represents an instance of a spark application run/execution.
   * @param applicationId

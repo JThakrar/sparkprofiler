@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 import org.apache.spark.sql.{Column, DataFrame, Dataset, SparkSession}
 import org.apache.spark.SparkConf
 

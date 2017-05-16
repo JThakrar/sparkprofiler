@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 import java.util.Date
 import org.apache.spark.sql.{DataFrame, Dataset, SparkSession}
 import org.apache.spark.SparkConf

@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 import org.apache.spark.sql.{Dataset, SparkSession}
 import org.json4s.DefaultFormats
 import org.json4s.jackson.JsonMethods._

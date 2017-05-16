@@ -1,3 +1,5 @@
+package com.conversantmedia.sparkprofiler
+
 /**
   * Executors are the long running JVMs (executing engines) used to execute the actual tasks of a spark application.
   * Note that a spark application contains one or more jobs, a job contains one or more stages and a stage has one or more tasks.
